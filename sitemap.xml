@@ -5,22 +5,4 @@
     <lastmod>2026-04-05</lastmod>
     <priority>1.00</priority>
   </url>
-
-  <url>
-    <loc>https://artificiumfl.vercel.app/#builds</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://artificiumfl.vercel.app/#aegis</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://artificiumfl.vercel.app/#team</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.50</priority>
-  </url>
 </urlset>
